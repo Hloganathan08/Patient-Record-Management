@@ -1,4 +1,4 @@
-# Patient Tracker
+# Patient Record Management
 A sophisticated Patient Management System is developed to efficiently organize healthcare data. This platform utilizes cutting-edge web technologies such as React, Tailwind CSS, JavaScript, HTML, Node.js, Express, and MongoDB. It offers an adaptable layout, interactive user interfaces, protected backend processes, user verification, profile handling, personalized control panels, and the ability to display data visually.
 
 ## Overview of Features
